@@ -1,6 +1,16 @@
-altgraph @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
-future @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
-macholib @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
-norminette==3.3.55
-pygame==2.6.1
-six @ file:///AppleInternal/Library/BuildRoots/39d9dc1a-2111-11f0-be06-226177e5bb69/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+annotated-types==0.7.0
+anyio==4.11.0
+click==8.3.0
+fastapi==0.118.0
+h11==0.16.0
+idna==3.10
+psycopg2==2.9.10
+pydantic==2.11.9
+pydantic_core==2.33.2
+sniffio==1.3.1
+SQLAlchemy==2.0.43
+sqlmodel==0.0.25
+starlette==0.48.0
+typing-inspection==0.4.2
+typing_extensions==4.15.0
+uvicorn==0.37.0
